@@ -20,4 +20,5 @@ public class Calc {
             return  (int) Double.POSITIVE_INFINITY;
         }
     }
+
 }
